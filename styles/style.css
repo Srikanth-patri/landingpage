@@ -1,0 +1,46 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+body{
+    background-color: #333;
+    color:White;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.container{
+    border: 2px solid;
+
+}
+
+#main-header{
+    text-align: Center;
+    background-color: coral;
+    margin: 10x;
+    
+}
+
+#navbar{
+    background-color: white;
+    color:white;
+    margin:10px;
+}
+
+#navbar li{
+    display:inline;
+    float:right;
+    margin-right: 15px;
+}
+
+#showcase{
+    float:none;
+    margin: 10px;
+
+
+}
+
+
